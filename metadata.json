@@ -1,0 +1,7 @@
+{
+  "name": "Copy of banco de dados agora",
+  "description": "Plataforma premium de acompanhantes de luxo e entretenimento noturno, com perfis verificados e curadoria exclusiva.",
+  "requestFramePermissions": [
+    "geolocation"
+  ]
+}
